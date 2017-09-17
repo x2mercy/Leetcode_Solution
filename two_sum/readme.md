@@ -9,3 +9,5 @@
 
     Because nums[0] + nums[1] = 2 + 7 = 9,
     return [0, 1].
+    
+    需特别注意：nums里的数每个只能用一遍！
