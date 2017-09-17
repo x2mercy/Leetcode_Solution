@@ -1,3 +1,4 @@
+#方法：enumerate+try...except...
 class Solution(object):
     def twoSum(self, nums, target):
         """
