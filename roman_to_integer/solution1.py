@@ -11,7 +11,6 @@ class Solution(object):
                     'C':100,
                     'D':500,
                     'M':1000}
-        roman=('I','V','X','L','C','D','M')
         current_num=0
         for i in range(len(s)):
             if i<len(s)-1:
