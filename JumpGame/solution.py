@@ -10,5 +10,7 @@ class Solution(object):
                 return False
             else:
                 max_jump=max(max_jump,nums[i]+i)
+                if max_jump==len(nums)-1:
+                    break
         return True
         
